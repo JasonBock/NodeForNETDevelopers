@@ -1,0 +1,13 @@
+{
+  "name": "PersonInConsoleApplication",
+  "version": "0.0.0",
+  "description": "PersonInConsoleApplication",
+  "main": "app.js",
+  "author": {
+    "name": "JasonB",
+    "email": ""
+  },
+  "dependencies": {
+    "edge": "^0.9.3"
+  }
+}
